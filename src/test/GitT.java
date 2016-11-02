@@ -6,5 +6,5 @@ package test;
  *
  */
 public class GitT {
-
+	private String srt;
 }
